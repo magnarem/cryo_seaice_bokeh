@@ -1,0 +1,13 @@
+{
+    "name": "cryo_seaice_bokeh",
+    "type": "drupal-module",
+    "description": "Bokeh SeaIce visualization for CRYO",
+    "keywords": [
+    ],
+    "homepage": "https://www.drupal.org/project/cryo_seaice_bokeh",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://www.drupal.org/project/issues/cryo_seaice_bokeh",
+        "source": "http://cgit.drupalcode.org/cryo_seaice_bokeh",
+    },
+}

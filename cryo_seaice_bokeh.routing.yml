@@ -1,0 +1,8 @@
+
+cryo_seaice_bokeh.bokeh_sea_ice_controller_content:
+  path: '/bokeh/seaice'
+  defaults:
+    _controller: '\Drupal\cryo_seaice_bokeh\Controller\BokehSeaIceController::content'
+    _title: 'Bokeh SeaIce'
+  requirements:
+    _permission: 'access content'

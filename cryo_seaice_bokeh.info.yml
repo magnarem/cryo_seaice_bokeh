@@ -1,0 +1,6 @@
+name: 'cryo_seaice_bokeh'
+type: module
+description: 'Bokeh SeaIce visualization for CRYO'
+core_version_requirement: ^8.8 || ^9 || ^10
+version: 1.0.0
+package: 'METNO'
